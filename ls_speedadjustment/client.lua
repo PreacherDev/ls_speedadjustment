@@ -249,7 +249,7 @@ CreateThread(function()
 
                 if totalMultiplier then 
                     local groundMaxSpeed = (maxSpeed*(totalMultiplier < 1.0 and totalMultiplier or 1.0))
-                    print(groundMaxSpeed)
+
                     if count > groundMaxSpeed then 
                         count -= 1
                     elseif count < groundMaxSpeed then 
