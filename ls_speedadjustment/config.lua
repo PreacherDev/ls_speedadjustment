@@ -62,14 +62,6 @@ Config.SpeedAdjustments = {
         ['sand'] = 0.8,
         ['gras'] = 0.8,
     },
-    ['helicopters'] = {
-        ['sand'] = 0.8,
-        ['gras'] = 0.8,
-    },
-    ['planes'] = {
-        ['sand'] = 0.8,
-        ['gras'] = 0.8,
-    },
     ['service'] = {
         ['sand'] = 0.8,
         ['gras'] = 0.8,
