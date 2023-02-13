@@ -221,11 +221,10 @@ local grounds     = Config.GroundTypes
 local adjustments = Config.SpeedAdjustments
 
 CreateThread(function()
-    local playerPed
     local count
     while true do 
         local sleep = 1000
-        playerPed   = playerPed or PlayerPedId()
+        local playerPed = PlayerPedId()
         if IsPedSittingInAnyVehicle(playerPed) then 
             
             local vehicle       = GetVehiclePedIsIn(playerPed, false)
