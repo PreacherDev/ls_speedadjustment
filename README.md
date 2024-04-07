@@ -2,6 +2,6 @@
 
 This resource prevents player from speeding on gras/sand 
 
-Update coming pretty soon (including tire-types like offrad or suv etc.)
+Tire-types now available as well!
 
 Support and/or Suggestions: https://discord.gg/6CpQn6EnD5
